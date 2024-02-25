@@ -1,8 +1,7 @@
 ## devops
 # XV Bootcamp WEB - Práctica del módulo Devops
 
-Entrega de la práctica.
-Para la práctica se han instalado las siguientes aplicaciones.
+**Para la práctica se han instalado las siguientes aplicaciones.**
 
 - Página web
 - Aplicación de chat con node (chat)
